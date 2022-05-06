@@ -41,4 +41,7 @@ Gerenciamento de categorias
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+#### Image Example:
+![image](https://user-images.githubusercontent.com/48365582/167158821-52e73027-a209-495e-9f4e-10f93ca95609.png)
+
 
